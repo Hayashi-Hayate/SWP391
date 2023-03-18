@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/Hayashi/OneDrive/Documents/SWP391/git_repos/swp391_2023_spring_se1645_group5/HomeSharing/src/java/model/AccountView.java</file>
+            <file>file:/C:/Users/Hayashi/OneDrive/Documents/SWP391/git_repos/swp391_2023_spring_se1645_group5/HomeSharing/web/view/admin/editusermodal.jsp</file>
+            <file>file:/C:/Users/Hayashi/OneDrive/Documents/SWP391/git_repos/swp391_2023_spring_se1645_group5/HomeSharing/src/java/dao/BillDBContext.java</file>
+            <file>file:/C:/Users/Hayashi/OneDrive/Documents/SWP391/git_repos/swp391_2023_spring_se1645_group5/HomeSharing/src/java/controller/authentication/LoginController.java</file>
+            <file>file:/C:/Users/Hayashi/OneDrive/Documents/SWP391/git_repos/swp391_2023_spring_se1645_group5/HomeSharing/src/java/controller/bill/ViewBillController.java</file>
+            <file>file:/C:/Users/Hayashi/OneDrive/Documents/SWP391/git_repos/swp391_2023_spring_se1645_group5/HomeSharing/src/java/model/Bill.java</file>
+            <file>file:/C:/Users/Hayashi/OneDrive/Documents/SWP391/git_repos/swp391_2023_spring_se1645_group5/HomeSharing/web/view/admin/admin-list-tenant.jsp</file>
+            <file>file:/C:/Users/Hayashi/OneDrive/Documents/SWP391/git_repos/swp391_2023_spring_se1645_group5/HomeSharing/web/view/bill/viewbill.jsp</file>
+            <file>file:/C:/Users/Hayashi/OneDrive/Documents/SWP391/git_repos/swp391_2023_spring_se1645_group5/HomeSharing/web/view/admin/adminhome.jsp</file>
+            <file>file:/C:/Users/Hayashi/OneDrive/Documents/SWP391/git_repos/swp391_2023_spring_se1645_group5/HomeSharing/web/view/bill/viewbillmodal.jspf</file>
+            <file>file:/C:/Users/Hayashi/OneDrive/Documents/SWP391/git_repos/swp391_2023_spring_se1645_group5/HomeSharing/src/java/dao/DBContext.java</file>
+        </group>
+    </open-files>
+</project-private>
